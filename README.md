@@ -1,5 +1,5 @@
 # Problem-Solving
-Various problems on code blocks using C & C++. 
+Various problems on code forces using C & C++. 
 
 ## First Sheet link
 
